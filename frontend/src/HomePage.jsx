@@ -11,9 +11,9 @@ export default function HomePage() {
 
                     <div className="title-wrapper">
                         <h1>James Pickering</h1>
-                        <h2 className="blue">Junior Software Engineer</h2>    
+                        <h2 className="blue">Junior Software Engineer</h2>
                     </div>
-                    
+
                 </div>
 
                 <div className="card" style={{ display: "flex", flexDirection: "row", gap: "20px" }}>
@@ -25,7 +25,7 @@ export default function HomePage() {
                         <p>
                             <strong>PHONE NUMBER: </strong>
                             07516760047
-                        </p>    
+                        </p>
                     </div>
 
                     <div>
@@ -50,7 +50,7 @@ export default function HomePage() {
                             at the University of Exeter (PROTECT Dementia Research) contributing to both backend and frontend systems
                         </p>
 
-                        <h3 className="blue" style={{marginBottom: 0}}>Projects & Details</h3>
+                        <h3 className="blue" style={{ marginBottom: 0 }}>Projects & Details</h3>
 
                         <ul>
                             <li><span>Python automated CSV to JSON data conversion script for new database</span></li>
@@ -58,9 +58,10 @@ export default function HomePage() {
                             <li><span>C# Windows Application for live DNA Sample Tracking</span></li>
                             <li><span>Java/Kotlin tool to scan barcode and apply to database</span></li>
                             <li><span>C# bug fix caused by chrome extension</span></li>
-                        </ul>    
+                            <li><span>JavaScript & Cypress automated testing scripts</span></li>
+                        </ul>
 
-                        <p style={{marginTop: "40px"}}>
+                        <p style={{ marginTop: "40px" }}>
                             <strong>Reviewed Exceptionally </strong>
                             by the team
                         </p>
@@ -76,23 +77,23 @@ export default function HomePage() {
                         <p>
                             <strong>Junior Software Engineer </strong>
                             with 1.5+ years of professional full stack development experience.
-                            I am seeking a degree apprenticeship to combine academic study and my existing skills in a practical environment. 
+                            I am seeking a degree apprenticeship to combine academic study and my existing skills in a practical environment.
                             Willing to relocate.
                         </p>
                     </div>
 
                     <div>
-                        <h3 className="blue" style={{marginBottom: 0}}>Skills</h3>
+                        <h3 className="blue" style={{ marginBottom: 0 }}>Skills</h3>
 
                         <p>
                             <strong>Versatile: </strong>
                         </p>
-                            <ul>
-                                <li><span>Strong in both backend and frontend practices</span></li>
-                                <li><span>Event driven development</span></li>
-                                <li><span>Object Orientated Programming</span></li>
-                                <li><span>Multithreading & System Performance</span></li>
-                            </ul>
+                        <ul>
+                            <li><span>Strong in both backend and frontend practices</span></li>
+                            <li><span>Event driven development</span></li>
+                            <li><span>Object Orientated Programming</span></li>
+                            <li><span>Multithreading & System Performance</span></li>
+                        </ul>
                         <p>
                             <strong>Engineering: </strong>
                         </p>
@@ -121,7 +122,7 @@ export default function HomePage() {
                             <li><span>JetBrains, Microsoft Visual Studio, Microsoft Visual Studio Code</span></li>
                             <li><span>Microsoft Teams, Microsoft Word, Microsoft Excel</span></li>
                             <li><span>Git</span></li>
-                        </ul> 
+                        </ul>
                     </div>
                 </div>
             </div>
